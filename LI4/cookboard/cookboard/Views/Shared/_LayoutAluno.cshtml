@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - CookBoard</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-white navbar-transparecy static-top" style="justify-content: space-between;
+    flex-direction: row;">
+                <a class="navbar-brand" asp-controller="Aluno" asp-action="Index">
+                    <img src="~/img/icon.png" style="height:50px">
+                </a>
+            <div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon">
+                        <i class="fa fa-navicon"></i>
+
+                    </span>
+                </button>
+                <div class="collapse navbar-collapse" id="navcol-1">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <form action="~/Home/Pesquisa" method="POST" style="padding-top:14px; padding-right: 4px">
+                                <li class="form-inline my-2 my-lg-0">
+                            <input class="form-control" type="search" name="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-light" type="submit">Search</button>
+                                 </li>
+                            </form>
+                        </li>
+
+                        <li class="nav-item"><a class="nav-link" asp-controller="Receitas" asp-action="getReceitas" style="padding-top:20px;"><strong>Receitas</strong></a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="EmentaSemanal" asp-action="getEmentaSemanal" style="padding-top:20px;"><strong>Ementa Semanal</strong></a></li>
+                        <li class="nav-item dropdown" style="margin-right: 80px;">
+                            <a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#" style="padding-top:20px;"><strong>Perfil</strong></a>
+                            <div class="dropdown-menu" style=" width:150px; position: absolute; top: 60px; right: 360px;">
+                                <a class="dropdown-item" asp-controller="Utilizador" asp-action="editarP"><strong>Editar Perfil</strong></a>
+                                <a class="dropdown-item" asp-controller="Utilizador" asp-action="getHistorico"> <strong>Histórico</strong></a>
+                                <a class="dropdown-item" asp-controller="Utilizador" asp-action="getFavoritos"><strong>Favoritos</strong></a>
+                                <a class="dropdown-item" asp-controller="Home" asp-action="Index"><strong>Log out</strong></a>
+                            </div>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container2">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!--<footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2019 - cookboard - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>-->
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,222 @@
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.deps.json
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.runtimeconfig.json
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.runtimeconfig.dev.json
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.dll
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csprojAssemblyReference.cache
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csproj.CoreCompileInputs.cache
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorAssemblyInfo.cache
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorAssemblyInfo.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.AssemblyInfoInputs.cache
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.AssemblyInfo.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.TagHelpers.input.cache
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.TagHelpers.output.cache
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorCoreGenerate.cache
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorTargetAssemblyInfo.cache
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorTargetAssemblyInfo.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.pdb
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.Views.dll
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.Views.pdb
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.Views.pdb
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.dll
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.pdb
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csproj.CopyComplete
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getHistorico.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getFavoritos.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getReceitas.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\getEmentaSemanal.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\getIngredientes.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getReceita.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getPassos.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\LocalIngrediente\getLocalizacao.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.deps.json
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.runtimeconfig.json
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.runtimeconfig.dev.json
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.dll
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.pdb
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.Views.dll
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.Views.pdb
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csprojAssemblyReference.cache
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csproj.CoreCompileInputs.cache
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorAssemblyInfo.cache
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorAssemblyInfo.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.AssemblyInfoInputs.cache
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.AssemblyInfo.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.TagHelpers.input.cache
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.TagHelpers.output.cache
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorCoreGenerate.cache
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\getEmentaSemanal.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\getIngredientes.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\LocalIngrediente\getLocalizacao.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getPassos.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getReceita.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getReceitas.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\editarP.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getFavoritos.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getHistorico.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorTargetAssemblyInfo.cache
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorTargetAssemblyInfo.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.Views.pdb
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.dll
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.pdb
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csproj.CopyComplete
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\editarP.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAluno.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutProfessor.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Account\utilizadorLogin.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutPassos.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.deps.json
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.runtimeconfig.json
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.runtimeconfig.dev.json
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.dll
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.pdb
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.Views.dll
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.Views.pdb
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csprojAssemblyReference.cache
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csproj.CoreCompileInputs.cache
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorAssemblyInfo.cache
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorAssemblyInfo.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.AssemblyInfoInputs.cache
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.AssemblyInfo.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.TagHelpers.input.cache
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.TagHelpers.output.cache
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorCoreGenerate.cache
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Account\utilizadorLogin.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\getEmentaSemanal.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\getIngredientes.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\LocalIngrediente\getLocalizacao.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getPassos.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getReceita.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getReceitas.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAluno.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutPassos.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutProfessor.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\editarP.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getFavoritos.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getHistorico.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorTargetAssemblyInfo.cache
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorTargetAssemblyInfo.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.Views.pdb
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.dll
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.pdb
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csproj.CopyComplete
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Account\RegisterUtilizador.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Professor\Index.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Account\RegisterUtilizador.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Professor\Index.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getPassosAuxiliar.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\RegisterEmenta.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pesquisa.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\RegisterReceita.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getAvaliacao.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\RegisterEmenta.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pesquisa.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getAvaliacao.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getPassosAuxiliar.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\RegisterReceita.g.cshtml.cs
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.deps.json
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.runtimeconfig.json
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.runtimeconfig.dev.json
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.dll
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.pdb
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.Views.dll
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\bin\Debug\netcoreapp2.2\cookboard.Views.pdb
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csprojAssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorAssemblyInfo.cache
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorAssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.AssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.TagHelpers.input.cache
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.TagHelpers.output.cache
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorCoreGenerate.cache
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Account\RegisterUtilizador.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Account\utilizadorLogin.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\getEmentaSemanal.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\getIngredientes.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\RegisterEmenta.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pesquisa.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\LocalIngrediente\getLocalizacao.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Professor\Index.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getAvaliacao.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getPassos.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getPassosAuxiliar.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getReceita.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getReceitas.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\RegisterReceita.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAluno.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutPassos.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutProfessor.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\criaEmenta.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\editarP.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getFavoritos.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getHistorico.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\getUsers.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Utilizador\registaReceita.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorTargetAssemblyInfo.cache
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.RazorTargetAssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.Views.pdb
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.dll
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.pdb
+C:\Users\Utilizador\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\cookboard.csproj.CopyComplete
+C:\Users\marta\OneDrive\Área de Trabalho\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\X556\Documents\GitHub\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Account\RegisterUtilizador.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Account\utilizadorLogin.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Aluno\Index.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\EmentaSemanal\RegisterEmenta.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Home\Pesquisa.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Professor\Index.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getAvaliacao.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\getPassosAuxiliar.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Receitas\RegisterReceita.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAluno.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutPassos.g.cshtml.cs
+C:\Users\Operador\Desktop\LI4\cookboard\cookboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutProfessor.g.cshtml.cs

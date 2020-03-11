@@ -1,0 +1,35 @@
+﻿@model cookboard.Models.Utilizador
+@{
+    ViewData["Title"] = "RegisterUtilizador";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+        @if (TempData["Success"] != null)
+        {
+            <p class="alert alert-success">@TempData["Success"] </p>
+        }
+        @if (TempData["Fail"] != null)
+        {
+            <p class="alert alert-danger">@TempData["Fail"]</p>
+        }
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="registar-clean" style="background-repeat: no-repeat; background-size: cover; height: 100vh;" >
+            <form method="post">
+                <div style="text-align: center; font-weight: 900; font-size: 18px; padding-bottom: 20px;">Registar Utilizador</div>
+                <div class="form-group"><input class="form-control" type="text" name="Username" placeholder="Username" required> </div>
+                <div class="form-group"><input class="form-control" type="text" name="Password" placeholder="Password" required></div>
+                <div class="form-group"><input class="form-control" type="text" name="Email" placeholder="Email" required></div>
+                <div class="form-group"><input class="form-control" type="text" name="Nome" placeholder="Nome" required></div>
+                <div class="form-group"><input class="form-control" type="text" name="DataNascimento" placeholder="DataNascimento" required></div>
+
+                <div class="col-md-10">
+                    Aluno
+                    <input id="Tipo" name="Tipo" value="Aluno" type="radio">
+                    <hr style="border-color: #ffffff;">
+                    Professor
+                    <input id="Tipo" name="Tipo" value="Professor" type="radio">
+                </div>
+                <div class="form-group"><button class="btn btn-primary btn-block" type="submit" style="background-color:rgb(146,141,142);">Register</button></div>
+            </form>
+        </div>
+

@@ -1,0 +1,49 @@
+﻿@model cookboard.Models.Utilizador
+@{
+    ViewBag.Title = "editarP";
+    string currentType = (string)@ViewData["Type"];
+
+    switch (currentType)
+    {
+        case "Professor":
+            Layout = "~/Views/Shared/_LayoutProfessor.cshtml";
+            break;
+        case "Aluno":
+            Layout = "~/Views/Shared/_LayoutAluno.cshtml";
+            break;
+    }
+}
+
+<div class="container">
+    <h1>Editar Perfil</h1>
+    <hr>
+    <!-- edit form column -->
+    <div class="col-md-9 personal-info">
+        @if (TempData["Success"] != null)
+        {
+            <p class="alert alert-success">@TempData["Success"] </p>
+        }
+        <form method="post">
+            <div class="form-group">
+                <label class="col-lg-3 control-label">Nome:</label>
+                <div class="col-lg-8">
+                    <input class="form-control" type="text" name="nome" value="@Model.Nome">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-lg-3 control-label">Email:</label>
+                <div class="col-lg-8">
+                    <input class="form-control" type="text" name="email" value="@Model.Email">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Password:</label>
+                <div class="col-md-8">
+                    <input class="form-control" type="password" name="password" value="@Model.Password">
+                </div>
+            </div>
+            <div class="form-group"><button class="btn btn-primary btn-block" type="submit" style="background-color:rgb(146,141,142);width:25%">Save</button></div>
+        </form>
+    </div>
+
+</div>

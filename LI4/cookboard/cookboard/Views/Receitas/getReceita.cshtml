@@ -1,0 +1,56 @@
+﻿@model cookboard.Models.ReceitaViewModel
+@{
+    ViewBag.Title = "getReceita";
+    string currentType = (string)@ViewData["Type"];
+
+    switch (currentType)
+    {
+        case "Professor":
+            Layout = "~/Views/Shared/_LayoutProfessor.cshtml";
+            break;
+        case "Aluno":
+            Layout = "~/Views/Shared/_LayoutAluno.cshtml";
+            break;
+    }
+}
+
+
+<div class="container">
+
+    <!-- Portfolio Item Heading -->
+    <h1 class="my-4">
+        @Html.DisplayFor(modelItem => Model.Receita.Nome)
+        <input type="button" class="btn btn-light" style="float:right;" value="Iniciar Receita" onclick="location.href='@Url.Action("getPassos","Receitas", new { idReceita = Model.Receita.Id })';" />
+    </h1>
+
+    <!-- Portfolio Item Row -->
+    <div class="row">
+
+        <div class="col-md-6">
+            <div class="receita" style="margin-left:20px;">
+                <img class="img-fluid" src="@Html.DisplayFor(modelItem => Model.Receita.Imagem)" style="height:290px;width:480px;border-radius: 5px;" alt="">
+            </div>
+            <ul style="list-style-type: none; margin-top: 10px;">
+                <li><img src="~/img/clock-regular.svg" style="width:15px;"> Tempo de confeção: @Html.DisplayFor(modelItem => Model.Receita.TempoConfecao)</li>
+                <li><img src="~/img/star-half-alt-solid.svg" style="width:15px;margin-top:-5px;"> Dificuldade: @Html.DisplayFor(modelItem => Model.Receita.Dificuldade)</li>
+                <li><img src="~/img/utensils-solid.svg" style="width:13px;margin-top:-5px;"> Porção: @Html.DisplayFor(modelItem => Model.Receita.Porcao)</li>
+                <hr>
+                <h6><img src="~/img/balance-scale-solid.svg" style="width:15px;"> Informação Nutricional</h6>
+                <li>@Html.DisplayFor(modelItem => Model.Receita.InfoNutricional)</li>
+            </ul>
+        </div>
+
+        <div class="col-md-6">
+            <div class="ing" style="margin-left:40px;">
+                <h3 class="my-3">Ingredientes</h3>
+
+                @foreach (var item in Model.Ingredientes)
+                {
+                    <input type="checkbox"> @Html.DisplayFor(modelItem => item.Quantidade) @Html.DisplayFor(modelItem => item.Ingrediente.Nome)<br>
+                }
+                <input type="button" class="btn btn-light" style="float:right;" value="Localizar Ingredientes" onclick="location.href='@Url.Action("getLocalizacao","LocalIngrediente", new { idReceita = Model.Receita.Id })';" />
+            </div>
+        </div>
+    </div>
+
+</div>

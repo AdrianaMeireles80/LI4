@@ -1,0 +1,39 @@
+﻿@{
+    string currentType = (string)@ViewData["Type"];
+
+    switch (currentType)
+    {
+        case "Professor":
+            Layout = "~/Views/Shared/_LayoutProfessor.cshtml";
+            break;
+        case "Aluno":
+            Layout = "~/Views/Shared/_LayoutAluno.cshtml";
+            break;
+    }
+}
+
+<div class="row" style="margin: 0px 24px;">
+    <div class="col-md-6" style="margin-top: 20px">
+        <h3>Secção de Comentários</h3>
+        <hr style="border-color: white;">
+        @{ using (Html.BeginForm("avaliar", "Receitas", FormMethod.Post))
+            {
+                <input type="text" placeholder='Comentário' style="font-size:1rem; overflow:auto; width: 400px;" name="comentario" id="nome" required />
+                <input type="text" name="idReceita" value="@Model.Id" required hidden />
+                <input type="submit" value="Avaliar" class="btn btn-light" />
+            }
+        }
+        <hr style="border-color: white;">
+        <h3>Avalie a receita</h3>
+        <input type="tel" list="estrelas" placeholder='⭐' style="float:left; width: 47px; margin-top:5px; text-align: center" name="estrelas" required>
+        <datalist id="estrelas">
+            <option value="1">⭐</option>
+            <option value="2">⭐⭐</option>
+            <option value="3">⭐⭐⭐</option>
+            <option value="4">⭐⭐⭐⭐</option>
+            <option value="5">⭐⭐⭐⭐⭐</option>
+        </datalist>
+        <input type="button" style="margin-left: 360px" class="btn btn-light" value="Adicionar Favorito" onclick="location.href='@Url.Action("addFavorito", "Receitas", new { idReceita = Model.Id, favorito = true })'" ;" />
+    </div>
+</div>
+

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<cookboard.Models.EmentaViewModel>
+@{
+    ViewBag.Title = "getEmentaSemanal";
+    string currentType = (string)@ViewData["Type"];
+
+    switch (currentType)
+    {
+        case "Professor":
+            Layout = "~/Views/Shared/_LayoutProfessor.cshtml";
+            break;
+        case "Aluno":
+            Layout = "~/Views/Shared/_LayoutAluno.cshtml";
+            break;
+    }
+}
+
+
+<div class="container">
+    <h1 class="my-4">Ementa Semanal</h1>
+    <input type="button" class="btn btn-light" value="Lista Ingredientes" onclick="location.href='@Url.Action("getIngredientes","EmentaSemanal")';" />
+
+    @foreach (var item in Model)
+    {
+        <hr>
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="@Html.DisplayFor(modelItem => item.Receita.Imagem)" alt="" style="height:90%;width:90%">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h1>@Html.DisplayFor(modelItem => item.Dia)</h1>
+                <h4>@Html.DisplayFor(modelItem => item.Receita.Nome)</h4>
+                <p><img src="~/img/star-half-alt-solid.svg" style="width:15px;margin-top:-5px;">&nbsp; Dificuldade: @Html.DisplayFor(modelItem => item.Receita.Dificuldade)</p>
+                <p><img src="~/img/clock-regular.svg" style="width:15px;">&nbsp; Tempo: @Html.DisplayFor(modelItem => item.Receita.TempoConfecao)</p>
+                <input type="button" class="btn btn-light" value="Consultar" onclick="location.href='@Url.Action("getReceita","Receitas", new { idReceita = item.Receita.Id })';" />
+            </div>
+        </div>
+    }
+
+</div>

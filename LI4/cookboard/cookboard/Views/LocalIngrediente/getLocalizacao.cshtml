@@ -1,0 +1,73 @@
+﻿@model IEnumerable<cookboard.Models.LocalIngredienteViewModel>
+@{
+    ViewBag.Title = "getLocalizacao";
+    string currentType = (string)@ViewData["Type"];
+
+    switch (currentType)
+    {
+        case "Professor":
+            Layout = "~/Views/Shared/_LayoutProfessor.cshtml";
+            break;
+        case "Aluno":
+            Layout = "~/Views/Shared/_LayoutAluno.cshtml";
+            break;
+    }
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script type='text/javascript'>
+        var map, directionsManager;
+        function GetMap() {
+            map = new Microsoft.Maps.Map('#myMap', {
+                credentials: 'FMz7IGEIvo8nBqJfTjXh~mcUVlEqSz4qfcnmIzT4lNg~As9anlqw0PuNjJ4z__L774e4EQHyFvboFoNQij-7t0OWogF7EJCB3WRVXp_bxCkg'
+            });
+            //Load the directions module.
+            Microsoft.Maps.loadModule('Microsoft.Maps.Directions', function () {
+                //Create an instance of the directions manager.
+                directionsManager = new Microsoft.Maps.Directions.DirectionsManager(map);
+                //Specify where to display the route instructions.
+                directionsManager.setRenderOptions({ itineraryContainer: '#directionsItinerary' });
+                //Specify the where to display the input panel
+                directionsManager.showInputPanel('directionsPanel');
+            });
+        }
+        function GetDirections() {
+            //Clear any previously calculated directions.
+            directionsManager.clearAll();
+            directionsManager.clearDisplay();
+            //Create waypoints to route between.
+            var start = new Microsoft.Maps.Directions.Waypoint({ address: document.getElementById('fromTbx').value });
+            directionsManager.addWaypoint(start);
+            var end = new Microsoft.Maps.Directions.Waypoint({ address: document.getElementById('toTbx').value });
+            directionsManager.addWaypoint(end);
+            //Calculate directions.
+            directionsManager.calculateDirections();
+        }</script>
+    <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=[YOUR_BING_MAPS_KEY]' async defer></script>
+</head>
+<body>
+    <div class="map-container">
+        <div>
+            <div id="myMap" style="position:relative;width:600px;height:400px;"></div>
+            <div style="margin-top:10px;">
+                From: <input id="fromTbx" type="text" value="" />
+                To: <input id="toTbx" type="text" value="" />
+                <input type="button" class="btn btn-light" onclick="GetDirections()" value="Calcular Trajeto" />
+            </div>
+        </div>
+
+        <div>
+            <h1> Locais </h1>
+            @foreach (var item in Model)
+            {
+                <h5> @Html.DisplayFor(modelItem => item.Supermercado)</h5>
+                <h6> @Html.DisplayFor(modelItem => item.Local.Localidade)</h6>
+                <p> @Html.DisplayFor(modelItem => item.Local.Rua), @Html.DisplayFor(modelItem => item.Local.CodigoPostal) </p>
+            }
+        </div>
+    </div>
+</body>
+</html>

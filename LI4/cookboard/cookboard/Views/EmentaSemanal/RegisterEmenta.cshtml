@@ -1,0 +1,91 @@
+﻿@model cookboard.Models.RegisterReceitaModel
+@{
+    ViewBag.Title = "RegisterEmenta";
+    Layout = "~/Views/Shared/_LayoutProfessor.cshtml";
+}
+
+
+<div style="background-repeat: no-repeat; background-size: cover; height: 100vh;" class="registar-clean">
+    <form method="post">
+        <div style="text-align: center; font-weight: 900; font-size: 18px; padding-bottom: 20px;">Ementa Semanal</div>
+        <div class="form-group">
+            <input class="form-control" type="text" name="data" placeholder="Data: AAAA-MM-DD" required>
+        </div>
+ 
+        
+        <div class="form-group dia-receita">
+            <label>Segunda-Feira:</label>
+            <select name="receitaS">
+                <option value="receitaS">
+                    Selecione uma receita:
+                </option>
+                @foreach (var item in Model.Receitas)
+                {
+                    <option value="@item.Nome">
+                        @item.Nome
+                    </option>
+                }
+            </select>
+        </div>
+        <div class="form-group dia-receita">
+            <label>Terça-Feira:</label>
+            <select name="receitaT">
+                <option value="receitaT">
+                    Selecione uma receita:
+                </option>
+                @foreach (var item in Model.Receitas)
+                {
+                    <option value="@item.Nome">
+                        @item.Nome
+                    </option>
+                }
+            </select>
+        </div>
+        <div class="form-group dia-receita">
+            <label>Quarta-Feira:</label>
+            <select name="receitaQ">
+                <option value="receitaQ">
+                    Selecione uma receita:
+                </option>
+                @foreach (var item in Model.Receitas)
+                {
+                    <option value="@item.Nome">
+                        @item.Nome
+                    </option>
+                }
+            </select>
+        </div>
+        <div class="form-group dia-receita">
+            <label>Quinta-Feira:</label>
+            <select name="receitaQuinta">
+                <option value="receitaQuinta">
+                    Selecione uma receita:
+                </option>
+                @foreach (var item in Model.Receitas)
+                {
+                    <option value="@item.Nome">
+                        @item.Nome
+                    </option>
+                }
+            </select>
+        </div>
+        <div class="form-group dia-receita">
+            <label>Sexta-Feira:</label>
+            <select name="receitaSexta">
+                <option value="receitaSexta">
+                    Selecione uma receita:
+                </option>
+                @foreach (var item in Model.Receitas)
+                {
+                    <option value="@item.Nome">
+                        @item.Nome
+                    </option>
+                }
+            </select>
+        </div>
+
+
+
+        <div class="form-group"><button class="btn btn-primary btn-block" type="submit" style="background-color:rgb(146,141,142);">Register</button></div>
+    </form>
+</div>

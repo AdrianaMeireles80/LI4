@@ -1,0 +1,247 @@
+﻿
+.login-clean form .forgot, .login-dark form .forgot {
+    display: block;
+    text-align: center;
+    text-decoration: none
+}
+
+.login-clean {
+    background: url('/img/background.jpg');
+    padding: 80px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    .login-clean form {
+        max-width: 320px;
+        width: 90%;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 40px;
+        border-radius: 4px;
+        color: #505e6c;
+        box-shadow: 1px 1px 5px rgba(0,0,0,.1)
+    }
+
+    .login-clean .illustration {
+        text-align: center;
+        padding: 0 0 20px;
+        font-size: 100px;
+        color: #f4476b
+    }
+
+    .login-clean form .form-control {
+        background: #f7f9fc;
+        border: none;
+        border-bottom: 1px solid #dfe7f1;
+        border-radius: 0;
+        box-shadow: none;
+        outline: 0;
+        color: inherit;
+        text-indent: 8px;
+        margin-top: 40px;
+        height: 42px
+    }
+
+    .login-clean form .btn-primary {
+        background: #f4476b;
+        border: none;
+        border-radius: 4px;
+        padding: 11px;
+        box-shadow: none;
+        margin-top: 26px;
+        text-shadow: none;
+        outline: 0 !important
+    }
+
+        .login-clean form .btn-primary:active, .login-clean form .btn-primary:hover {
+            background: #eb3b60
+        }
+
+        .login-clean form .btn-primary:active {
+            transform: translateY(1px)
+        }
+
+    .login-clean form .forgot {
+        font-size: 12px;
+        color: #6f7a85;
+        opacity: .9
+    }
+
+        .login-clean form .forgot:active, .login-clean form .forgot:hover {
+            opacity: 1;
+            text-decoration: none
+        }
+
+
+
+.registar-clean form .forgot, .login-dark form .forgot {
+    display: block;
+    text-align: center;
+    text-decoration: none
+}
+
+.registar-clean {
+    background: url('/img/background.jpg');
+    padding: 55px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    .registar-clean form {
+        max-width: 600px;
+        width: 90%;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        color: #505e6c;
+        box-shadow: 1px 1px 5px rgba(0,0,0,.1)
+    }
+
+    .registar-clean .illustration {
+        text-align: center;
+        padding: 0 0 20px;
+        font-size: 20px;
+        color: #f4476b
+    }
+
+    .registar-clean form .form-control {
+        background: #f7f9fc;
+        border: none;
+        border-bottom: 1px solid #dfe7f1;
+        border-radius: 0;
+        box-shadow: none;
+        outline: 0;
+        color: inherit;
+        text-indent: 8px;
+        height: 42px
+    }
+
+    .registar-clean form .btn-primary {
+        background: #f4476b;
+        border: none;
+        border-radius: 4px;
+        padding: 11px;
+        box-shadow: none;
+        margin-top: 50px;
+        text-shadow: none;
+        outline: 0 !important
+    }
+
+        .registar-clean form .btn-primary:active, .login-clean form .btn-primary:hover {
+            background: #eb3b60
+        }
+
+        .registar-clean form .btn-primary:active {
+            transform: translateY(1px)
+        }
+
+    .registar-clean form .forgot {
+        font-size: 12px;
+        color: #6f7a85;
+        opacity: .9
+    }
+
+        .registar-clean form .forgot:active, .login-clean form .forgot:hover {
+            opacity: 1;
+            text-decoration: none
+        }
+
+
+.searchbar {
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 40px;
+    background-color: #353b48;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.search_input {
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color: transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover > .search_input {
+    padding: 0 10px;
+    width: 300px;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover > .search_icon {
+    background: white;
+    color: #e74c3c;
+}
+
+.search_icon {
+    height: 40px;
+    width: 40px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: white;
+}
+
+
+.photo-gallery {
+    color: #313437;
+    background-color: #fff
+}
+
+    .photo-gallery p {
+        color: #7d8285
+    }
+
+    .photo-gallery h2 {
+        font-weight: 700;
+        margin-bottom: 40px;
+        padding-top: 40px;
+        color: inherit
+    }
+
+    .photo-gallery .intro {
+        font-size: 16px;
+        max-width: 500px;
+        margin: 0 auto 40px
+    }
+
+        .photo-gallery .intro p {
+            margin-bottom: 0
+        }
+
+    .photo-gallery .photos {
+        padding-bottom: 20px
+    }
+
+    .photo-gallery .item {
+        padding-bottom: 30px
+    }
+
+h1, h2, h3, h4, h5, h6, a, strong {
+    color:black;
+}
+
+.map-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+.dia-receita {
+    display: flex;
+    justify-content: space-between;
+}
+.fa.fa-navicon {
+    color: black;
+}

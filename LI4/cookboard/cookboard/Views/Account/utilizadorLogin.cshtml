@@ -1,0 +1,20 @@
+﻿@model cookboard.Models.Utilizador
+@{
+    ViewBag.Title = "utilizadorLogin";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+
+}
+
+        @if (TempData["UserLoginFailed"] != null)
+        {
+            <p class="alert alert-danger">@TempData["UserLoginFailed"]</p>
+        }
+
+        <div class="login-clean" style="background-size:cover; height: 100vh;">
+            <form method="post">
+                <div class="illustration"><img src="~/img/logo.png" style="height:183px;"></div>
+                <div class="form-group"><input class="form-control" type="text" name="username" placeholder="Username" required></div>
+                <div class="form-group"><input class="form-control" type="password" name="password" placeholder="Password" required></div>
+                <div class="form-group"><button class="btn btn-primary btn-block" type="submit" style="background-color:rgb(146,141,142);">Log in</button></div>
+            </form>
+        </div>

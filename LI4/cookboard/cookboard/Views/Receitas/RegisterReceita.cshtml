@@ -1,0 +1,56 @@
+﻿@model cookboard.Models.RegisterReceitaModel
+@{
+    ViewBag.Title = "RegisterReceita";
+    string currentType = (string)@ViewData["Type"];
+
+    switch (currentType)
+    {
+        case "Professor":
+            Layout = "~/Views/Shared/_LayoutProfessor.cshtml";
+            break;
+        case "Aluno":
+            Layout = "~/Views/Shared/_LayoutAluno.cshtml";
+            break;
+    }
+}
+        @if (TempData["Success"] != null)
+        {
+            <p class="alert alert-success">@TempData["Success"]  <a asp-action="UserLogin">Click here to login</a></p>
+        }
+        @if (TempData["Fail"] != null)
+        {
+            <p class="alert alert-danger">@TempData["Fail"]</p>
+        }
+            <div style="background-repeat: no-repeat; background-size: cover; height: 100%"
+                 class="registar-clean">
+                <form method="post">
+                    <div style="text-align: center; font-weight: 900; font-size: 18px; padding-bottom: 20px;">Registar Receita</div>
+                    <div class="form-group"><input class="form-control" type="text" name="Nome" placeholder="Nome" required> </div>
+                    <div class="form-group"><input class="form-control" type="text" name="Porcao" placeholder="Porcao" required></div>
+                    <div class="form-group"><input class="form-control" type="text" name="Imagem" placeholder="Imagem" required></div>
+                    <div class="form-group"><input class="form-control" type="text" name="InfoNutricional" placeholder="InfoNutricional" required></div>
+                    <div class="form-group"><input class="form-control" type="text" name="Dificuldade" placeholder="Dificuldade" required></div>
+                    <div class="form-group"><input class="form-control" type="text" name="Ingrediente" placeholder="Ingrediente" required></div>
+                    <div class="form-group"><input class="form-control" type="text" name="Descricao" placeholder="Descricao" required></div>
+                    <div class="form-group"><input class="form-control" type="text" name="TempoConfecao" placeholder="TempoConfecao" required></div>
+                    <label>Apenas preencher caso considere necessário o apoio de outra receita:</label>
+                    <div class="form-group">
+                        <label>Escolha a receita:</label>
+                        <select name="receitaAux">
+                            <option value="receitaAux">
+                                Selecione uma receita:
+                            </option>
+                            @if (Model != null)
+                            {
+                                @foreach (var item in Model.Receitas)
+                                {
+                                    <option value="@item.Nome">
+                                        @item.Nome
+                                    </option>
+                                }}
+                        </select>
+                    </div>
+                    <div class="form-group"><input class="form-control" type="text" name="Passo" placeholder="Passo"></div>
+                    <div class="form-group"><button class="btn btn-primary btn-block" type="submit" style="background-color:rgb(146,141,142);">Register</button></div>
+                </form>
+            </div>
